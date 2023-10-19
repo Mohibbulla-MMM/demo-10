@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "img": "https://i.ibb.co/v3vnNv2/download-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Intel",
+    "img": "https://i.ibb.co/DfpJr0j/download.png"
+  },
+  {
+    "id": 3,
+    "name": "Samsung",
+    "img": "https://i.ibb.co/f0R8rzW/download-2.png"
+  },
+  {
+    "id": 4,
+    "name": "Sony",
+    "img": "https://i.ibb.co/bsJ7Hd8/download-3.png"
+  },
+  {
+    "id": 5,
+    "name": "Vivo",
+    "img": "https://i.ibb.co/93WjGJ1/download-4.png"
+  },
+  {
+    "id": 6,
+    "name": "Oppo",
+    "img": "https://i.ibb.co/tx9mWsn/Screenshot-23.png"
+  },
+  {
+    "id": 7,
+    "name": "Nokia",
+    "img": "https://i.ibb.co/K5Yvc15/images-1.png"
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "img": "https://i.ibb.co/Y0H2Bdj/images-2.png"
+  }
+]
